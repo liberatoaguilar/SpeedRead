@@ -3,13 +3,13 @@ Copyright © 2017 Liberato Aguilar. All rights reserved.
 
 # SPEEDREAD
 
-SpeedRead is an Application for MacOS 10.11+ that allows the user to read faster and more efficiently at around 400 WPM. SpeedRead is based on a method of speed reading called Rapid Serial Visual Perception. This consists of the screen flashing many words quickly and highlighting a key character for enhanced reading. SpeedRead becomes fullscreen to reduce distractions and help you focus on your reading. SpeedRead is currently still in its BETA version and is a work in progress application.
+SpeedRead is an Application for MacOS 10.15+ that allows the user to read faster and more efficiently at 400 WPM or faster. SpeedRead is based on a method of speed reading called Rapid Serial Visual Perception. This consists of the screen flashing many words quickly and highlighting a key character for enhanced reading. SpeedRead becomes fullscreen to reduce distractions and help you focus on your reading.
 
 ## USAGE
 
 Using SpeedRead is very simple:
 
-1. Open the SpeedRead App.
+1. Open the SpeedRead App. You will now see the SpeedRead icon on your menu bar.
 
 2. Copy any text from a website, article, e-book, etc. and press the book icon located on your Mac’s menu bar on the top of your screen.
 
@@ -17,7 +17,7 @@ Using SpeedRead is very simple:
 
 ## SETTINGS
 
-SpeedRead’s settings currently consist of the option to choose either a light or dark theme.
+SpeedRead’s settings currently consist of the option to choose either a light or dark theme and change the WPM speed to your liking.
 
 ## SPECIAL NOTES
 
