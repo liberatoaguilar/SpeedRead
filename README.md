@@ -34,4 +34,3 @@ The name SpeedRead is subject to change.
 ![image](https://raw.githubusercontent.com/liberatoaguilar/SpeedRead/master/Images/2.png)
 ![image](https://raw.githubusercontent.com/liberatoaguilar/SpeedRead/master/Images/3.png)
 ![image](https://raw.githubusercontent.com/liberatoaguilar/SpeedRead/master/Images/4.png)
-![image](https://raw.githubusercontent.com/liberatoaguilar/SpeedRead/master/Images/5.png)
